@@ -1,0 +1,3 @@
+sudo npm ci
+sudo npm install
+sudo npm start
