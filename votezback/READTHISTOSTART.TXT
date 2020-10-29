@@ -1,0 +1,4 @@
+sudo npm install
+sudo BIGSECTORS=true make localnet
+
+
